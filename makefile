@@ -7,7 +7,7 @@ README.md: guessinggame.sh
 	echo "" >> README.md
 	echo "This project is a simple guessing game that promts you for the number" >> README.md
 	echo "of files in the current working directory (including directory files," >> README.md
-	echo "but not including '.' or '..'" >> README.md
+	echo "but not including '.' or '..')" >> README.md
 	echo "" >> README.md
 	echo "Built: $(shell date)" >> README.md
 	echo "" >> README.md
