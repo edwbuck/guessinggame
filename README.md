@@ -7,4 +7,3 @@ but not including '.' or '..')
 Built: Sun 27 Sep 2020 11:45:42 AM CDT
 
 Guessinggame.sh lines: 36
-HTML generated from original markdown file [README.MD](https://github.com/edwbuck/guessinggame/blob/master/README.md) which was generated from a [makefile](https://github.com/edwbuck/guessinggame/blob/master/makefile)
